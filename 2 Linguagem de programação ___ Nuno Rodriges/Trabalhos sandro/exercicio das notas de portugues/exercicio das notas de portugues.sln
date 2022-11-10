@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio das notas de portugues", "exercicio das notas de portugues\exercicio das notas de portugues.csproj", "{2E21E09B-2B1B-45DC-A5CC-B4B2C18EBAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E21E09B-2B1B-45DC-A5CC-B4B2C18EBAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E21E09B-2B1B-45DC-A5CC-B4B2C18EBAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E21E09B-2B1B-45DC-A5CC-B4B2C18EBAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E21E09B-2B1B-45DC-A5CC-B4B2C18EBAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A5F8BA3-D744-4310-9D0D-FC5469A68929}
+	EndGlobalSection
+EndGlobal

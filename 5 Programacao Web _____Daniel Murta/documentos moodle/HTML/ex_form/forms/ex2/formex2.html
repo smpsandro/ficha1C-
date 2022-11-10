@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: beige;
+        }
+    </style>
+</head>
+<body>
+    <form action="http://127.0.0.1:5500/test.html" method="post">
+    <h1>&#x1F366; Ice Cream Order Form &#x1F366;</h1>
+    Email: <input type="email" name="email" pattern="\w+@[a-z]+.[a-z]{2,}" placeholder="Write Here..." required>
+    <hr>
+    Password: <input type="password" name="pass" placeholder="Write Here..." required>
+    <hr>
+    Flavor: <select name="flavor" required>
+        <optgroup label="Standard">
+        <option value="chocolate">Chocolate</option>
+        <option value="vanilla">Vanilla</option>
+        <option value="iogurt">Iogurt</option>
+    </optgroup>
+    <optgroup label="Fruits">
+        <option value="melon">Melon</option>
+        <option value="mango">Mango</option>
+        <option value="kiwi">Kiwi</option>
+        <option value="strawberry">StrawBerry</option>
+    </optgroup>
+    </select>
+    <hr>
+    Toppings: <input type="checkbox" name="sprinkles"> Sprinkles
+    <input type="checkbox" name="nuts"> Nuts
+    <input type="checkbox" name="whipped_cream"> Whipped Cream
+    <hr>
+    Cup or Cone? <input type="radio" name="sex" checked> Cup
+    <input type="radio" name="sex"> Plain Cone
+    <input type="radio" name="sex"> Sugar Cone
+    <input type="radio" name="sex" disabled> Waffle Cone
+    <hr>
+    Special Requests: <br>
+     <textarea name="requests" id="" cols="30" rows="10" min="1" max="100"></textarea>
+     <hr>
+     <input type="submit" value="Place Order">
+     <input type="reset" value="Reset Form">
+    </form>
+</body>
+</html>

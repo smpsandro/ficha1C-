@@ -1,0 +1,5 @@
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\while\obj\Debug\net6.0\while.csproj.AssemblyReference.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\while\obj\Debug\net6.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\while\obj\Debug\net6.0\while.AssemblyInfoInputs.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\while\obj\Debug\net6.0\while.AssemblyInfo.cs
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\while\obj\Debug\net6.0\while.csproj.CoreCompileInputs.cache

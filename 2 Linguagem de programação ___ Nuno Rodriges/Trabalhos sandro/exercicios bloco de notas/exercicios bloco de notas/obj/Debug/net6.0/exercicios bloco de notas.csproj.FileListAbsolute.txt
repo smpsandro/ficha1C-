@@ -1,0 +1,15 @@
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\bin\Debug\net6.0\exercicios bloco de notas.exe
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\bin\Debug\net6.0\exercicios bloco de notas.deps.json
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\bin\Debug\net6.0\exercicios bloco de notas.runtimeconfig.json
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\bin\Debug\net6.0\exercicios bloco de notas.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\bin\Debug\net6.0\exercicios bloco de notas.pdb
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\obj\Debug\net6.0\exercicios bloco de notas.csproj.AssemblyReference.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\obj\Debug\net6.0\exercicios bloco de notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\obj\Debug\net6.0\exercicios bloco de notas.AssemblyInfoInputs.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\obj\Debug\net6.0\exercicios bloco de notas.AssemblyInfo.cs
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\obj\Debug\net6.0\exercicios bloco de notas.csproj.CoreCompileInputs.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\obj\Debug\net6.0\exercicios bloco de notas.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\obj\Debug\net6.0\refint\exercicios bloco de notas.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\obj\Debug\net6.0\exercicios bloco de notas.pdb
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\obj\Debug\net6.0\exercicios bloco de notas.genruntimeconfig.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\exercicios bloco de notas\exercicios bloco de notas\obj\Debug\net6.0\ref\exercicios bloco de notas.dll

@@ -1,0 +1,15 @@
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\bin\Debug\net6.0\FOR_ciclo de repetição.exe
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\bin\Debug\net6.0\FOR_ciclo de repetição.deps.json
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\bin\Debug\net6.0\FOR_ciclo de repetição.runtimeconfig.json
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\bin\Debug\net6.0\FOR_ciclo de repetição.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\bin\Debug\net6.0\FOR_ciclo de repetição.pdb
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\obj\Debug\net6.0\FOR_ciclo de repetição.csproj.AssemblyReference.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\obj\Debug\net6.0\FOR_ciclo de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\obj\Debug\net6.0\FOR_ciclo de repetição.AssemblyInfoInputs.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\obj\Debug\net6.0\FOR_ciclo de repetição.AssemblyInfo.cs
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\obj\Debug\net6.0\FOR_ciclo de repetição.csproj.CoreCompileInputs.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\obj\Debug\net6.0\FOR_ciclo de repetição.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\obj\Debug\net6.0\refint\FOR_ciclo de repetição.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\obj\Debug\net6.0\FOR_ciclo de repetição.pdb
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\obj\Debug\net6.0\FOR_ciclo de repetição.genruntimeconfig.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\FOR_ciclo de repetição\FOR_ciclo de repetição\obj\Debug\net6.0\ref\FOR_ciclo de repetição.dll

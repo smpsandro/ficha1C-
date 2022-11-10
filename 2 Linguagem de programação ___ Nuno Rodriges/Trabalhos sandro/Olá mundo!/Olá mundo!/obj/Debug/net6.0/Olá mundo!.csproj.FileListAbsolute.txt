@@ -1,0 +1,15 @@
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\obj\Debug\net6.0\Olá mundo!.csproj.AssemblyReference.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\obj\Debug\net6.0\Olá mundo!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\obj\Debug\net6.0\Olá mundo!.AssemblyInfoInputs.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\obj\Debug\net6.0\Olá mundo!.AssemblyInfo.cs
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\obj\Debug\net6.0\Olá mundo!.csproj.CoreCompileInputs.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\bin\Debug\net6.0\Olá mundo!.exe
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\bin\Debug\net6.0\Olá mundo!.deps.json
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\bin\Debug\net6.0\Olá mundo!.runtimeconfig.json
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\bin\Debug\net6.0\Olá mundo!.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\bin\Debug\net6.0\Olá mundo!.pdb
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\obj\Debug\net6.0\Olá mundo!.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\obj\Debug\net6.0\refint\Olá mundo!.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\obj\Debug\net6.0\Olá mundo!.pdb
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\obj\Debug\net6.0\Olá mundo!.genruntimeconfig.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Olá mundo!\Olá mundo!\obj\Debug\net6.0\ref\Olá mundo!.dll

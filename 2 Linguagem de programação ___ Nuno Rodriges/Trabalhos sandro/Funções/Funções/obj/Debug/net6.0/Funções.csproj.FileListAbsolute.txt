@@ -1,0 +1,15 @@
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\obj\Debug\net6.0\Funções.csproj.AssemblyReference.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\obj\Debug\net6.0\Funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\obj\Debug\net6.0\Funções.AssemblyInfoInputs.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\obj\Debug\net6.0\Funções.AssemblyInfo.cs
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\obj\Debug\net6.0\Funções.csproj.CoreCompileInputs.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\bin\Debug\net6.0\Funções.exe
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\bin\Debug\net6.0\Funções.deps.json
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\bin\Debug\net6.0\Funções.runtimeconfig.json
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\bin\Debug\net6.0\Funções.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\bin\Debug\net6.0\Funções.pdb
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\obj\Debug\net6.0\Funções.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\obj\Debug\net6.0\refint\Funções.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\obj\Debug\net6.0\Funções.pdb
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\obj\Debug\net6.0\Funções.genruntimeconfig.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Funções\Funções\obj\Debug\net6.0\ref\Funções.dll

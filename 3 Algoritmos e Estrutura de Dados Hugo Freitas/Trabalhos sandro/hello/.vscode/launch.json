@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/AETSM/Desktop/IPCA/3 Algoritmos e Estrutura de Dados Hugo Freitas/Trabalhos sandro/HelloWorld",
+      "program": "c:/Users/AETSM/Desktop/IPCA/3 Algoritmos e Estrutura de Dados Hugo Freitas/Trabalhos sandro/HelloWorld/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

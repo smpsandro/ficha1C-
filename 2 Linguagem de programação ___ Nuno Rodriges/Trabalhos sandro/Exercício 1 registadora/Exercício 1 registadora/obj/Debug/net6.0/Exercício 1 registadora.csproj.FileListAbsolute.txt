@@ -1,0 +1,15 @@
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\bin\Debug\net6.0\Exercício 1 registadora.exe
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\bin\Debug\net6.0\Exercício 1 registadora.deps.json
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\bin\Debug\net6.0\Exercício 1 registadora.runtimeconfig.json
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\bin\Debug\net6.0\Exercício 1 registadora.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\bin\Debug\net6.0\Exercício 1 registadora.pdb
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\obj\Debug\net6.0\Exercício 1 registadora.csproj.AssemblyReference.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\obj\Debug\net6.0\Exercício 1 registadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\obj\Debug\net6.0\Exercício 1 registadora.AssemblyInfoInputs.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\obj\Debug\net6.0\Exercício 1 registadora.AssemblyInfo.cs
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\obj\Debug\net6.0\Exercício 1 registadora.csproj.CoreCompileInputs.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\obj\Debug\net6.0\Exercício 1 registadora.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\obj\Debug\net6.0\refint\Exercício 1 registadora.dll
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\obj\Debug\net6.0\Exercício 1 registadora.pdb
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\obj\Debug\net6.0\Exercício 1 registadora.genruntimeconfig.cache
+C:\Users\AETSM\Desktop\IPCA\2 Linguagem de programação ___ Nuno Rodriges\Trabalhos sandro\Exercício 1 registadora\Exercício 1 registadora\obj\Debug\net6.0\ref\Exercício 1 registadora.dll
