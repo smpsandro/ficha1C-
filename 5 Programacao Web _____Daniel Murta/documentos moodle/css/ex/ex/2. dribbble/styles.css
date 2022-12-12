@@ -1,0 +1,30 @@
+/*todos os estilos de pagina*/
+body{
+        
+         background-color: #333; /* A cor de fundo deverá ser #333;*/
+         font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+         }
+.dribbble{
+
+        font-weight: 200px; /* ter 200px de largura;*/
+        margin-top: 60px;/*estar  a 60px do topo da página;*/
+        text-align: center;/*txt alinhado centro*/
+        } 
+       /* O texto "Sign in" no topo deverá:
+        * ter a cor #999;
+        * estar a 20px do icone "Dribble";
+        * estar a 40px da caixa dos botões das redes sociais;
+        */
+.sing_in{
+        color: #999;
+        padding-top: 20px;
+        text-align: center;
+        padding-bottom:40px;    
+        }
+.redessociais{
+    * A caixa das redes sociais deverá:
+   * uma moldura de 2px de largura com a cor preta com 15% de transparência;
+   * a distância dos botões à caixa deverá ser de 20px;
+   * estar distanciada do formulário de login em 40px;
+}             
+    
